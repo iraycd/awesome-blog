@@ -1,11 +1,82 @@
-# Awesome Tech Blogs
+# Awesome Blogs
+
 
 ### Content
+
+- [Languages](#languages)
+    - [Python](#python)
+    - [Swift](#swift)
+    - [Java](#java)
+    - [Javascript](#javascript)
+- [Platform / Technology](#platform--technology)
+    - [iOS](#ios)
+    - [Android](#android)
+    - [Django](#django)
+    - [Node.js](#nodejs)
 - [Companies](#companies)
 - [Individuals/Group Contributors](#individuals--group-contributors)
 - [Aggregators](#aggregators)
 
+
+# Languages
+
+## Python
+* [Mouse Vs Python](http://www.blog.pythonlibrary.org/)
+* [Planet Python](http://planetpython.org/)
+* [PyCoder's](http://pycoders.com/archive/)
+* [Python Adventures](https://pythonadventures.wordpress.com/)
+* [Real Python](https://realpython.com/blog)
+
+### Individual
+* [Alex Gaynor](https://alexgaynor.net/)
+* [Armin Ronacher](http://lucumr.pocoo.org/)
+* [Ned Batchelder](http://nedbatchelder.com/blog/)
+* [Nicholas Coghlan](http://www.curiousefficiency.org/)
+* [Mike Bayer](http://techspot.zzzeek.org/)
+* [Pydanny](http://www.pydanny.com/category/python.html)
+
+### Old
+* http://python-history.blogspot.in/
+
+
+## Swift
+* [Swift Offical Dev Blog](https://developer.apple.com/swift/blog/)
+
+
+## Java
+* [Java, SQL, and jOOQ](http://blog.jooq.org/)
+* [JAXenter](http://jaxenter.com/)
+* [RebelLabs](http://zeroturnaround.com/rebellabs/)
+* [The Java Specialist' Newsletter](http://www.javaspecialists.eu/archive/archive.jsp)
+* [TheServerSide.com](http://www.theserverside.com/)
+* [The Takipi Blog](http://blog.takipi.com/)
+* [Thoughts On Java](http://www.thoughts-on-java.org/)
+* [Vanilla Java](http://vanillajava.blogspot.ch/)
+* [Vlad Mihalcea on Hibernate](http://vladmihalcea.com/)
+* [Voxxed](https://www.voxxed.com/)
+
+
+## JavaScript 
+* [Adventures in JavaScript Development](http://rmurphey.com/)
+* [DailyJS](http://dailyjs.com/)
+
+###Individuals
+* [Dean Edwards](http://dean.edwards.name/weblog/)
+* [Douglas Crockford](http://javascript.crockford.com/)
+* [John Resig](http://ejohn.org/category/blog/)
+* [Nicholas C. Zakas](http://nczonline.net/)
+
+
+# Platform
+
+## iOS
+## Android
+## Django
+## Node.js
+
+
 # Companies
+
 * Adzerk http://adzerk.com/tech/
 * AdRoll http://tech.adroll.com/blog/
 * Airbnb-http://nerds.airbnb.com/
@@ -94,7 +165,9 @@
 * Zenpayroll-http://engineering.zenpayroll.com/
 * Zillow-https://engineering.zillow.com/
 
+
 #Individuals / Group Contributors
+
 * A List Apart-http://alistapart.com/
 * Brendan Gregg-http://www.brendangregg.com/blog/
 * Code Better-http://codebetter.com/
@@ -110,17 +183,21 @@
 * Mike Ash-https://www.mikeash.com/pyblog/
 * NSHipster-http://nshipster.com/
 * Paul Graham-http://www.paulgraham.com/articles.html
-* Real Python-https://realpython.com/blog
 * Scott Hanselman-http://www.hanselman.com/blog/
 * Steve Yegge-http://steve-yegge.blogspot.com/
-* Swift Offical Dev Blog-https://developer.apple.com/swift/blog/
 * Swizec Teller-http://swizec.com/blog/
 * Virtuous Code-http://devblog.avdi.org/
 * Yegor Bugayenko-http://www.yegor256.com/
 
+
 # Aggregators
+
 * Complete IT Professional-http://www.completeitprofessional.com/top-100-blogs-for-software-developers
 * NOOP.NL-http://noop.nl/2009/09/top-200-blogs-for-developers-q3-2009.html
 * Toptal-http://www.toptal.com/it/toptal-s-selection-of-top-developer-blogs
 
-**Credits:** https://github.com/kilimchoi/engineering-blogs
+
+**Credits:** 
+https://github.com/kilimchoi/engineering-blogs
+http://code.tutsplus.com/articles/33-developers-you-must-subscribe-to-as-a-javascript-junkie--net-18151
+
