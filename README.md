@@ -138,6 +138,7 @@
 * Pinterest-http://engineering.pinterest.com/
 * Polyvore-http://engblog.polyvore.com/
 * Prezi-https://medium.com/prezi-engineering
+* Project Ricochet-https://projectricochet.com/
 * Quora-http://engineering.quora.com/
 * Rdio-https://algorithms.rdio.com/
 * Rightscale-http://eng.rightscale.com/
